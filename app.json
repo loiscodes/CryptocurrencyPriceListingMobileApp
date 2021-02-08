@@ -1,0 +1,12 @@
+{
+  "name": "CryptocurrencyPriceListingMobileApp",
+  "displayName": "CryptocurrencyPriceListingMobileApp",
+  "expo": {
+    "name": "CryptocurrencyPriceListingMobileApp",
+    "slug": "CryptocurrencyPriceListingMobileApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
